@@ -1,0 +1,21 @@
+.app-con{
+    display: flex;
+
+}
+
+.content{
+    width: 100%;
+}
+.sidebar {
+    height: 800px;
+}
+.post-card {
+    margin: 20px 50px;
+    width: 30rem;
+}
+.tag {
+    margin: 5px;
+}
+.reaction{
+    margin: 15px;
+}

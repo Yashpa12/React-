@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+.calculator {
+  background-color: bisque;
+  width: 200px;
+  border: 2px solid rgb(91, 84, 84);
+  border-radius: 3px;
+}
+  

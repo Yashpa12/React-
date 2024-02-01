@@ -1,0 +1,16 @@
+h1 {
+    font-weight: bold;
+    font-size: 75px;
+    background-color: antiquewhite;
+    margin: 10px;
+    margin-bottom: 15px;
+}
+input {
+    width: 100%;
+}
+.mg-row{
+    margin: 10px 3px;
+}
+.s-btn {
+    min-width: 100px ;
+}
