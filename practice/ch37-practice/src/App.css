@@ -1,0 +1,33 @@
+.app-con{
+    display: flex;
+
+}
+
+.content{
+    width: 100%;
+}
+.sidebar {
+   min-height: 800px;
+}
+.post-card {
+    margin: 20px 50px;
+    width: 30rem;
+}
+.tag {
+    margin: 5px;
+}
+.reaction{
+    margin: 15px;
+}
+.create {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 45px;
+}
+.msg-box{
+margin: 120px;
+}
+.spinner {
+    margin-top: 20%;
+    margin-left: 50%;
+}

@@ -5,11 +5,11 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <center>
       <ClockHeading></ClockHeading>
       <ClockSlogan></ClockSlogan>
       <ClockTime></ClockTime>
-    </>
+    </center>
   );
 }
 

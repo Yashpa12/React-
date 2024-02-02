@@ -21,7 +21,7 @@ const CreatePost = () => {
     createpost(userid, postBody, postTitle, postags, postReaction);
     useridElement.current.value;
     postTitleElement.current.value =' '
-   postBodyElement.current.value =' '
+    postBodyElement.current.value =' '
     postagsElement.current.value =' '
     postReactionElement.current.value =' '
   };
